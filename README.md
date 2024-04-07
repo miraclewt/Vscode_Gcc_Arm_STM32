@@ -1,0 +1,2 @@
+# Vscode_Gcc_Arm_STM32
+一个使用Vscdode开发stm32的工程
